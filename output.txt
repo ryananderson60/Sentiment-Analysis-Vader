@@ -1,0 +1,28 @@
+I USED POLITCAL CORPUS FROM USNA.  WILL NOT INCLUDE FAVORITES COLUMN
+                                               Tweet    ...     Negative
+0  Global Voices Online Â» Alex Castro: A liberal...    ...        0.128
+1  Do the Conservatives Have a Death Wish? http:/...    ...        0.336
+2  @MMFlint I've seen all of your movies and Capi...    ...        0.000
+3  RT @AllianceAlert: * House Dems ask for civili...    ...        0.000
+4  RT @AdamSmithInst Quote of the week: My politi...    ...        0.000
+
+[5 rows x 5 columns]
+
+ screenshot of histogram will be named screenshot_hist.png in folder
+
+
+                                                  Tweet    ...     Negative
+151   #follow2010 My lovely friend, @SunnyStokes Swe...    ...        0.000
+953   Barak Obama is a slick talking man, and i love...    ...        0.000
+466   @fftweetzone What calls didn't you like? I tho...    ...        0.046
+789   Watch this video http://metacafe.com/w/3568656...    ...        0.000
+1236  im still like dead from yesterday/this morning...    ...        0.074
+586   Obama gave a great pep talk! It encouraged me....    ...        0.000
+1197  Loving this story behind an organic nursery in...    ...        0.000
+1405  life is great i'm so happy that my husband is ...    ...        0.000
+619   GO PRESIDENT OBAMA!!!!!! So intelligent, so on...    ...        0.000
+432   Progressive health care reform involves provid...    ...        0.000
+
+[10 rows x 5 columns]
+
+NOTE: spyder does not format datafram correctly.  I have also put into the folder a python notebook to run if needed to see columns.
